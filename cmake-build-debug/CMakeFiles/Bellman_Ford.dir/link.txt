@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Bellman_Ford.dir/main.cpp.o  -o Bellman_Ford 
